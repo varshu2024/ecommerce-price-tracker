@@ -55,7 +55,7 @@ If price ≤ target, sends:
 📜 License
 MIT
 
-(Customize with screenshots, detailed setup, or contribution guidelines as needed.)
+
 
 🎨 Recommended Additions
 Add actual screenshots of the web interface
