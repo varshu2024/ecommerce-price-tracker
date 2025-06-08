@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+beautifulsoup4
+requests
+selenium
+twilio
+sendgrid
+apscheduler
+python-dotenv
